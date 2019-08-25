@@ -34,7 +34,7 @@ Partial Class frmAddTwoNumbers
         Me.txtFirst.Name = "txtFirst"
         Me.txtFirst.Size = New System.Drawing.Size(100, 29)
         Me.txtFirst.TabIndex = 0
-        Me.txtFirst.Text = "0"
+        Me.txtFirst.Text = "1"
         Me.txtFirst.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'txtSecond
@@ -44,7 +44,7 @@ Partial Class frmAddTwoNumbers
         Me.txtSecond.Name = "txtSecond"
         Me.txtSecond.Size = New System.Drawing.Size(100, 29)
         Me.txtSecond.TabIndex = 1
-        Me.txtSecond.Text = "0"
+        Me.txtSecond.Text = "2"
         Me.txtSecond.TextAlign = System.Windows.Forms.HorizontalAlignment.Center
         '
         'btnAdd
@@ -54,7 +54,7 @@ Partial Class frmAddTwoNumbers
         Me.btnAdd.Name = "btnAdd"
         Me.btnAdd.Size = New System.Drawing.Size(100, 34)
         Me.btnAdd.TabIndex = 2
-        Me.btnAdd.Text = "0"
+        Me.btnAdd.Text = "3"
         Me.btnAdd.UseVisualStyleBackColor = True
         '
         'frmAddTwoNumbers
